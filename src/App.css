@@ -1,0 +1,52 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+}
+.nav{
+  background-color: red;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+
+}
+.logo{
+  max-width: 100%;
+  width: 20px;
+  margin-left: 220px;
+}
+.locator{
+  width: 10px;
+}
+.nav-header {
+  margin-right: 50px;
+  color: #fff;
+  font-weight: bold;
+}
+.card{
+  padding: 40px 20px;
+  display: flex;
+}
+.img{
+  height: 200px;
+}
+.card-content{
+  padding: 0 10px;
+}
+.card-header{
+  line-height: 20px;
+  padding-bottom: 20px;
+}
+.card-link{
+  margin-left: 15px;
+  color:  gray;
+}
+.card-p1{
+  font-weight: bold;
+  line-height: 10px;
+}
+.card-p2{
+  line-height: 15px;
+}
