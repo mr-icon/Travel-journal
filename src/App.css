@@ -6,7 +6,7 @@ body{
   margin: 0;
 }
 .nav{
-  background-color: red;
+  background-color: tomato;
   display: flex;
   align-items: center;
   padding: 10px;
@@ -26,7 +26,7 @@ body{
   font-weight: bold;
 }
 .card{
-  padding: 40px 20px;
+  padding: 30px 20px;
   display: flex;
 }
 .img{
@@ -42,6 +42,9 @@ body{
 .card-link{
   margin-left: 15px;
   color:  gray;
+}
+.card-span{
+  margin-left: 5px;
 }
 .card-p1{
   font-weight: bold;

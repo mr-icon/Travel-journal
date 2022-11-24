@@ -11,7 +11,7 @@ function App() {
   return (
     <div className="App">
       <Nav />
-      <section>
+      <section className='card-list'>
         {cards}
       </section>
     </div>
